@@ -1,0 +1,4 @@
+com/masai/a428june_phone_insurance_renewal_layout_you3/BuildConfig.java
+ com.masai.a428june_phone_insurance_renewal_layout_you3.BuildConfig
+com/masai/a428june_phone_insurance_renewal_layout_you3/MainActivity.java
+ com.masai.a428june_phone_insurance_renewal_layout_you3.MainActivity
